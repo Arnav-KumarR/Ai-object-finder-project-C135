@@ -1,0 +1,34 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    color: rgba(73, 11, 138, 0.767);
+    border-radius: 0px;
+    font-family: Comic, Cursive;
+}
+
+.heading:hover
+{
+    color: rgba(73, 11, 138, 0.767);
+    background-color: rgb(27, 169, 27);
+}
+
+#note
+{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.658);
+    width: 100%;
+    border-radius: 0px;
+    font-family: Cursive;
+}
+
+#status, #notifier
+{
+    font-size: 18px;
+}
